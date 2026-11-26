@@ -1,6 +1,6 @@
 cask "azeroth-tagebuch" do
-  version "0.4.0"
-  sha256 "bcf91051863f92cbf34cd040ff5501f18586c1368fbaa663d225fc6cf2c7830e"
+  version "0.5.0"
+  sha256 "2da411b6900e2b73a1954f7dff2991444e0f3197cb17d9d8e9228c62c8de7792"
 
   url "https://github.com/dirkkredinger/azeroth-tagebuch/releases/download/v#{version}/Azeroth-Tagebuch_#{version}_universal.dmg"
   name "Azeroth-Tagebuch"
